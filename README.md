@@ -1,3 +1,5 @@
+<img src='https://github.com/fabiomatricardi/PDF-to-Text/raw/main/pdfToTXT.png' height=250>
+
 # PDF-to-Text
 A python terminal program to convert PDF files into TXT
 
